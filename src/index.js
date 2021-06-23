@@ -6,7 +6,7 @@
 *
 * Name: ____Lilian_Shi_________ Student ID: ____109261206______ Date: __2021-06-22________
 *
-* Online Link to Restaurant App: 
+* Online Link to Restaurant App: https://nyc-restaurants.vercel.app/restaurants
 *
 ***********************************************************************************/
 import React from "react";

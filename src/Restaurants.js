@@ -33,7 +33,7 @@ function Restaurants() {
 
   //utility functions
   const previousPage = () => {
-    if (page > 0) {
+    if (page > 1) {
       setPage((prev) => prev - 1);
     }
   };

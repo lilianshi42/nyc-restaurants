@@ -68,6 +68,7 @@ function Restaurant() {
               </Card>
             ))}
           </CardDeck>
+          <hr/>
         </div>
       ) : !loading && restaurant === null ? (
         <Card text="danger">
